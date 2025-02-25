@@ -8,6 +8,7 @@ Java Swing: The graphical user interface (GUI) is built using Java Swing, which 
 
 Backend:
 MySQL Database: MySQL is used to manage the database, handling all data storage and retrieval operations. It stores user information, booking details, payment records, and other relevant data.
+
 Key Features:
 User Authentication:
 
